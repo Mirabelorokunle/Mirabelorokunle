@@ -28,7 +28,7 @@ I am a passionate and dedicated software engineer with a keen interest in solvin
 
 ## Contact
 - **Email**: mirabelorokunle@gmail.com
-<!-- - **Curriculum** **Vitae**: [CV](https://github.com/DafetiteOgaga/CV/blob/master/Dafetite_Ogaga_SE.pdf) -->
+- **Curriculum** **Vitae**: [CV](https://github.com/Mirabelorokunle/CV/blob/master/Mirabel_Orokunle%20Cv.pdf)
 
 <!-- ### Socials
 
